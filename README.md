@@ -12,7 +12,7 @@ This repo is set up to be used in setting up a local dev environment using [Land
 ```
 $ git clone https://github.com/ricktorzynski/lando-esteemed-opensocial
 $ cd lando-esteemed-opensocial
-
+$ composer install
 $ lando init
 ```
 For the install and note the root directory is "html" and not "web"
