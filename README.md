@@ -39,6 +39,9 @@ You will be shown the site url:
 ```
 Go to the URL in your browser and commence the install.
 
+Choose Language
+![Choose Language](images/Lando-1-Home-Esteemed-Open-Social.jpg)
+
 
 ### Install issues for Open Social
 [documentation](https://www.drupal.org/docs/8/distributions/open-social/installing-and-updating)
