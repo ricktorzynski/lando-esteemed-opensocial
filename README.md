@@ -29,13 +29,13 @@ $ lando start
 Boomshakalaka!!!
 You will be shown the site url:
 ```
- NAME            esteemed-open-social                        
- LOCATION        /home/rick/Lando/esteemed-opensocial        
- SERVICES        appserver, database                         
- APPSERVER URLS  https://localhost:32775                     
-                 http://localhost:32776                      
-                 http://esteemed-open-social.lndo.site:8000/ 
-                 https://esteemed-open-social.lndo.site/    
+ NAME            lando-esteemed-opensocial                        
+ LOCATION        /home/rick/Lando/lando-esteemed-opensocial       
+ SERVICES        appserver, database                              
+ APPSERVER URLS  https://localhost:32790                          
+                 http://localhost:32791                           
+                 http://lando-esteemed-opensocial.lndo.site:8080/ 
+                 https://lando-esteemed-opensocial.lndo.site/    
 ```
 Go to the URL in your browser and commence the install.
 
