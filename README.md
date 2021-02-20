@@ -49,13 +49,14 @@ Go to the URL in your browser and commence the install.
 For database name, user and password, use drupal.  Click on ADVANCED OPTIONS and set Host to database.
 
 ### Install Optional Modules
+![Install Optional Modules](images/Lando-Install-optional-modules-Open-Social.jpg)
 
-Select options you want to include - I chose all of them!
+Select options you want to include - I chose all of them!  You can also add demo data to see what the site will really look like with content.
 
 ### Configure Site
 ![Configure Site](images/Lando-3-Configure-site-Open-Social.jpg)
 
-This screen does have errors, but you can ignore them from now.  I will address these later.
+This screen does have errors, but you can ignore them from now.  I will address these later or if someone knows how these can be resolved, please let me know or submit the change.
 
 ### Homepage
 ![Homepage](images/Lando-4-Home-Esteemed-Open-Social-Dev.jpg)
