@@ -49,6 +49,8 @@ Go to the URL in your browser and commence the install.
 ### Configure Site
 ![Configure Site](images/Lando-3-Configure-site-Open-Social.jpg)
 
+This screen does have errors, but you can ignore them from now.  I will address these later.
+
 ### Homepage
 ![Homepage](images/Lando-4-Home-Esteemed-Open-Social-Dev.jpg)
 
