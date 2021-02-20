@@ -1,6 +1,8 @@
-This is a composer based installer for the [Open Social distribution](https://www.drupal.org/project/social).
+# Open Social Local Dev Using Lando
 
-# Prerequisites
+This repo is set up to be used in setting up a local dev environment using [Lando](https://lando.dev/).
+
+## Prerequisites
 
 1. [Composer](https://getcomposer.org/download/) installed locally.
 2. [Lando](https://lando.dev/) installed locally.
