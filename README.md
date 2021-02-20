@@ -51,7 +51,7 @@ For database name, user and password, use drupal.  Click on ADVANCED OPTIONS and
 ### Install Optional Modules
 ![Install Optional Modules](images/Lando-Install-optional-modules-Open-Social.jpg)
 
-Select options you want to include - I chose all of them!
+Select options you want to include - I chose all of them!  You can also add demo data to see what the site will really look like with content.
 
 ### Configure Site
 ![Configure Site](images/Lando-3-Configure-site-Open-Social.jpg)
