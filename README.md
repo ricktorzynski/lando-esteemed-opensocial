@@ -61,6 +61,9 @@ This screen does have errors, but you can ignore them from now.  I will address 
 ### Homepage
 ![Homepage](images/Lando-4-Home-Esteemed-Open-Social-Dev.jpg)
 
+### Homepage with Demo Content and Users
+![Homepage with Demo Content and Users](images/Home-Esteemed-Open-Social.jpg)
+
 
 
 ### Install issues for Open Social
