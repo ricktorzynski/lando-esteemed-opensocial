@@ -46,6 +46,12 @@ Go to the URL in your browser and commence the install.
 ### Database Configuration
 ![Database Configuration](images/Lando-2-Database-configuration-Open-Social.jpg)
 
+For database name, user and password, use drupal.  Click on ADVANCED OPTIONS and set Host to database.
+
+### Install Optional Modules
+
+Select options you want to include - I chose all of them!
+
 ### Configure Site
 ![Configure Site](images/Lando-3-Configure-site-Open-Social.jpg)
 
