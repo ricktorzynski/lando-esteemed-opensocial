@@ -39,8 +39,19 @@ You will be shown the site url:
 ```
 Go to the URL in your browser and commence the install.
 
-Choose Language
+### Choose Language
+
 ![Choose Language](images/Lando-1-Home-Esteemed-Open-Social.jpg)
+
+### Database Configuration
+![Database Configuration](images/Lando-2-Database-configuration-Open-Social.jpg)
+
+### Configure Site
+![Configure Site](images/Lando-3-Configure-site-Open-Social.jpg)
+
+### Homepage
+![Homepage](images/Lando-4-Home-Esteemed-Open-Social-Dev.jpg)
+
 
 
 ### Install issues for Open Social
