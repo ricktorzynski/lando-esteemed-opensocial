@@ -1,6 +1,6 @@
 # Open Social Local Dev Using Lando
 
-This repo can be used in setting up a local dev environment using [Lando](https://lando.dev/) for [Open Social](https://drupal.org/projects/social).
+This repo can be used in setting up a local dev environment using [Lando](https://lando.dev/) for [Open Social](https://drupal.org/project/social).
 
 ## Prerequisites
 
